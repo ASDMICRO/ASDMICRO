@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @ASDMICRO
+- 👀 I’m interested in networking and server hardware
+- 🌱 I’m currently learning how to setup a website using fleek
+- 💞️ I’m looking to collaborate on any hardware / software realting to the cloud
+- 📫 How to reach me by email at broker@asdmicro.biz
